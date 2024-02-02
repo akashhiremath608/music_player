@@ -2,7 +2,7 @@
   "name": "music_player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/akashhiremath608.github.io/music_player.git",
+  "homepage": "https://akashhiremath608.github.io/music_player",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
